@@ -1,3 +1,29 @@
+# automa
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A browser extension for automating your browser by connecting blocks
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+通过连接功能块实现浏览器自动化的浏览器扩展。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <img src="src/assets/images/icon-128.png" width="64"/>
 
 # Automa
